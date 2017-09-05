@@ -1,4 +1,5 @@
 weatherTab
+test
 ============================
 Yii 2 Project
 Report the average daily temperature each day of the month
